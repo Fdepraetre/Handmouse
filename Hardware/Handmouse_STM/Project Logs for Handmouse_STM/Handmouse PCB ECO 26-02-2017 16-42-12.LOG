@@ -1,0 +1,45 @@
+Added Component: Designator=LED1(0805)
+Added Component: Designator=LED2(0805)
+Added Component: Designator=LED3(0805)
+Added Component: Designator=LED4(0805)
+Added Component: Designator=LED5(0805)
+Added Component: Designator=R13(0402)
+Added Component: Designator=R14(0402)
+Added Component: Designator=R15(0402)
+Added Component: Designator=R16(0402)
+Added Component: Designator=R17(0402)
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=LED4-2
+Added Pin To Net: NetName=GND Pin=LED5-2
+Added Pin To Net: NetName=LED_1 Pin=R13-2
+Added Pin To Net: NetName=LED_2 Pin=R14-2
+Added Pin To Net: NetName=LED_3 Pin=R15-2
+Added Pin To Net: NetName=LED_4 Pin=R16-2
+Added Pin To Net: NetName=LED_5 Pin=R17-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R13-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R14-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R15-1
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R16-1
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R17-1
+Added Net: Name=NetLED5_1
+Added Member To Class: ClassName=Handmouse Member=Component LED1 RD405-006A
+Added Member To Class: ClassName=Handmouse Member=Component LED2 RD405-006A
+Added Member To Class: ClassName=Handmouse Member=Component LED3 RD405-006A
+Added Member To Class: ClassName=Handmouse Member=Component LED4 RD405-006A
+Added Member To Class: ClassName=Handmouse Member=Component LED5 RD405-006A
+Added Member To Class: ClassName=Handmouse Member=Component R13 330
+Added Member To Class: ClassName=Handmouse Member=Component R14 330
+Added Member To Class: ClassName=Handmouse Member=Component R15 330
+Added Member To Class: ClassName=Handmouse Member=Component R16 330
+Added Member To Class: ClassName=Handmouse Member=Component R17 330

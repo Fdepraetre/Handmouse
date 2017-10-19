@@ -1,0 +1,6 @@
+Added Component: Designator=VR1(R-PDSO- G4)
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=VCC_3V3 Pin=VR1-2
+Added Pin To Net: NetName=VCC_5V Pin=VR1-3
+Added Pin To Net: NetName=VCC_3V3 Pin=VR1-4
+Added Member To Class: ClassName=Handmouse Member=Component VR1 RD426-001A

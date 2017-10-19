@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Added Member To Class: ClassName=Handmouse Member=Component C3 RD401-033A
+Added Member To Class: ClassName=Handmouse Member=Component C16 RD401-033A
+Added Member To Class: ClassName=Handmouse Member=Component C17 RD401-033A
+Added Member To Class: ClassName=Handmouse Member=Component C18 RD401-033A
+Added Member To Class: ClassName=Handmouse Member=Component C20 RD401-033A

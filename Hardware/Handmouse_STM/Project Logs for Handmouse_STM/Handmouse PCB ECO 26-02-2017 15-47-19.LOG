@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=RD401-040A New DesignItemId=RD401-021A
+Change Component DesignItemId : Designator=C2 Old DesignItemId=RD401-040A New DesignItemId=RD401-021A
+Change Component Footprint: Designator=C1 Old Footprint=1206 New Footprint=0603
+Change Component Footprint: Designator=C2 Old Footprint=1206 New Footprint=0603
+Change Component Comment : Designator=C1 Old Comment=RD401-040A New Comment=RD401-021A
+Change Component Comment : Designator=C2 Old Comment=RD401-040A New Comment=RD401-021A

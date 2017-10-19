@@ -1,0 +1,4 @@
+Added Component: Designator=C12(0402)
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=ADC_IN5 Pin=C12-2
+Added Member To Class: ClassName=Handmouse Member=Component C12 RD401-008A

@@ -1,0 +1,25 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Handmouse_STM.PrjPcb|ReportField=ProjectFullPath~F:\Documents\GitHub\Handmouse\Hardware\Handmouse_STM\Handmouse_STM.PrjPcb|ReportField=Title~Bill of Materials For Project [Handmouse_STM.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~79|ReportField=ReportTime~18:44:12|ReportField=ReportDate~12/07/2017|ReportField=ReportDateTime~12/07/2017 18:44:12|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/07/2017|ReportField=CurrentTime~18:43:49|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\Documents\GitHub\Handmouse\Hardware\Handmouse_STM\Handmouse.SchDoc|ReportField=DocumentName~Handmouse.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~20/03/2017|ReportField=Organization~|ReportField=ProjectName~Handmouse_STM.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Handmouse_STM.PrjPcb|ReportField=DataSourceFullPath~F:\Documents\GitHub\Handmouse\Hardware\Handmouse_STM\Handmouse_STM.PrjPcb
+RD401-021A|CAP CER 0603 1uF 25V X7R 10%|C1, C2|0603|RD401-021A|2
+RD401-033A|CAP CER 0402 0.1uF 16V X7R 5%|C3, C5, C6, C7, C8, C16, C17, C19, C20|0402|RD401-033A|9
+Value|CAP CER 0805 4.7uF 16V X7R 10%|C4|0805|RD401-025A|1
+22pF|CAP CER 0402 22pF 25V COG 1%|C9, C10|0402|RD401-009A|2
+RD401-008A|CAP CER 0402 10nF 16V X7R 5%|C11, C12, C13, C14, C15|0402|RD401-008A|5
+RD401-037A|CAP CER 0402 10nF 50V X7R 10%|C21|0402|RD401-037A|1
+RD408-013A|JUMPER|CN1, CN3, CN4|PinHead 2*1 M|RD408-013A|3
+RD408-022A|CON SWD|CN2|TC2030-IDC-FP|RD408-022A|1
+CONN_FCI_10103594-0001LF|CONN MICROUSB FCI 10103594-0001LF|J1|CONN_10103594-0001LF|CONN_FCI_10103594-0001LF|1
+Pad_1X5||J2, J3|PCBComponent_1|Pad_1X5|2
+HE10_2.54_1X6||J4|PCBComponent_1 - duplicate|HE10_2.54_1X6|1
+RD405-006A|DIO LED SMT ? 30mA Rouge|LED1, LED2, LED3, LED4, LED5|0805|RD405-006A|5
+mire||M1, M2, M3|Mire|mire|3
+PT 0.8mm|Point de test pastille 0.8mm|PT1, PT2, PT3, PT4, PT5, PT6, PT7, PT8, PT9, PT10, PT11, PT12, PT13, PT14, PT15|Pastille_0.8mm|PT 0.8mm|15
+Quartz_16MHz|Quartz 16MHz|Q1|PCBComponent_1 - duplicate2|Quartz_16MHz|1
+RD403-054A|RES 0603 10K 1% 0.1W|R1, R6, R7, R8, R9, R10|0603|RD403-054A|6
+RD403-046A|RES 0603 4.7K 1% 0.1W|R2, R3|0603|RD403-046A|2
+RD403-044A|RES 0603 0 1% 0.1W|R4, R5, R18, R19, R20, R21, R22, R23|0603|RD403-044A|8
+100k|RES 0402 100k 1% 0.063W|R11, R12|0402|RD403-007A|2
+330|RES 0402 330 1% 0.063W|R13, R14, R15, R16, R17|0402|RD403-014A|5
+RD498-005A|Gyroscopes MEMS motion sensor 3axis digital output|U1|LGA_50P_300X300_16|RD498-005A|1
+ADXL345BCCZ||U2|PCBComponent_1 - duplicate1|ADXL345BCCZ|1
+RD421-006A|STM32F070C6T6|U3|LQFP48|RD421-006A|1
+REGUL_3V3||U4|SOIC95P280X130-5|REGUL_3V3|1
